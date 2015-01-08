@@ -15,7 +15,8 @@ public class CalculadoraAvanzada {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("inicio");
+          System.out.println("inicio");
     }
     system.out.print("hola mundo");
 }
