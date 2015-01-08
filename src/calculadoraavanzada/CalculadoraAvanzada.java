@@ -16,6 +16,7 @@ public class CalculadoraAvanzada {
      */
     public static void main(String[] args) {
         System.out.println("inicio");
+          System.out.println("inicio");
     }
     
 }
