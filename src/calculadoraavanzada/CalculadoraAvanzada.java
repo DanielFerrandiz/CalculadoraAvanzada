@@ -15,10 +15,15 @@ public class CalculadoraAvanzada {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("inicio");
-          System.out.println("inicio");
-          dfsdsadfasd
-          emilio papapapsdpapsdpaspd
+        
+        switch (menu):
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+        case 6:
+            
     }
     
 }
