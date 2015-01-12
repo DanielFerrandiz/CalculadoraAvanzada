@@ -9,6 +9,8 @@
  *
  * @author Emilio
  */
+ import java.util.*;
+ import java.lang.Math;
 public class CalculadoraAvanzada {
 
     /**
@@ -40,6 +42,10 @@ public class CalculadoraAvanzada {
              System.out.print("resp");
         case 5:
         case 6:
+            System.out.println("Raiz");
+            System.out.print("Introduce el valor  : ");
+            a=introducir.nextInt();
+            resp=Math.sqrt(a);
             
     }
     
