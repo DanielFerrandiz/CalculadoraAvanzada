@@ -7,7 +7,7 @@
 
 /**
  *
- * @author Emilio
+ * @author Emilio Silvestre
  */
 public class CalculadoraAvanzada {
 
